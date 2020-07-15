@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/ReactImageOverlay/static/css/main.27fd15f6.chunk.css",
+    "main.js": "/ReactImageOverlay/static/js/main.07a83f50.chunk.js",
+    "main.js.map": "/ReactImageOverlay/static/js/main.07a83f50.chunk.js.map",
+    "runtime-main.js": "/ReactImageOverlay/static/js/runtime-main.e55d613b.js",
+    "runtime-main.js.map": "/ReactImageOverlay/static/js/runtime-main.e55d613b.js.map",
+    "static/css/2.5501a63e.chunk.css": "/ReactImageOverlay/static/css/2.5501a63e.chunk.css",
+    "static/js/2.cc5dd242.chunk.js": "/ReactImageOverlay/static/js/2.cc5dd242.chunk.js",
+    "static/js/2.cc5dd242.chunk.js.map": "/ReactImageOverlay/static/js/2.cc5dd242.chunk.js.map",
+    "index.html": "/ReactImageOverlay/index.html",
+    "precache-manifest.9aec1c8de371a0319e80e1babaad57f8.js": "/ReactImageOverlay/precache-manifest.9aec1c8de371a0319e80e1babaad57f8.js",
+    "service-worker.js": "/ReactImageOverlay/service-worker.js",
+    "static/css/2.5501a63e.chunk.css.map": "/ReactImageOverlay/static/css/2.5501a63e.chunk.css.map",
+    "static/css/main.27fd15f6.chunk.css.map": "/ReactImageOverlay/static/css/main.27fd15f6.chunk.css.map",
+    "static/js/2.cc5dd242.chunk.js.LICENSE.txt": "/ReactImageOverlay/static/js/2.cc5dd242.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/ReactImageOverlay/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e55d613b.js",
+    "static/css/2.5501a63e.chunk.css",
+    "static/js/2.cc5dd242.chunk.js",
+    "static/css/main.27fd15f6.chunk.css",
+    "static/js/main.07a83f50.chunk.js"
+  ]
+}
